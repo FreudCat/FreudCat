@@ -1,5 +1,6 @@
 <div align="center">
- ![image](WSUcoug.JPG)<h1>Hello, I'm Angela</h1>
+![Alt](WSUcoug.png)
+ <h1>Hello, I'm Angela</h1>
   <p>veterinarian | educator | nascent web developer</p>
 </div>
 
