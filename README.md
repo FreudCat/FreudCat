@@ -1,5 +1,5 @@
 <div align="center">
-![Alt](WSUcoug.png?raw=true)
+![Alt](assets/WSUcoug.png)
  <h1>Hello, I'm Angela</h1>
   <p>veterinarian | educator | nascent web developer</p>
 </div>
