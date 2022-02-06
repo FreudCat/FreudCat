@@ -14,18 +14,13 @@
 <section align="center">
   <h2>Some of my projects</h2>
   <br />
-  <img src="assets/petspage.PNG" alt="" width="350">
-  <img src="assets/petspage.PNG" alt="" width="350">
+  <img src="assets/petspage.PNG" alt="" height="250" width="350">
+  <img src="assets/ecommerce.PNG" alt="" height="250" width="350">
   <a href="https://github.com/FreudCat/wordpress-theme-child">
     <img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=freudcat&repo=wordpress-theme-child&theme=radical"></a>
-  <a href="https://github.com/FreudCat/wordpress-theme-child">
-    <img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=freudcat&repo=wordpress-theme-child&theme=radical"></a>
-  <img src="assets/petspage.PNG" alt="" width="350">
-  <img src="assets/petspage.PNG" alt="" width="350">
-  <a href="https://github.com/FreudCat/wordpress-theme-child">
-    <img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=freudcat&repo=wordpress-theme-child&theme=radical"></a>
-  <a href="https://github.com/FreudCat/wordpress-theme-child">
-    <img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=freudcat&repo=wordpress-theme-child&theme=radical"></a>
+  <a href="https://github.com/FreudCat/Shopping-Page">
+    <img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=freudcat&repo=shopping-page&theme=radical"></a>
+ 
 </section>
 
 <br />
