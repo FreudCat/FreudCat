@@ -1,6 +1,6 @@
 <div align="center">
  <h1>Thank You For Stopping By</h1>
- <p><b>Hello, I'm Angela&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Veterinarian <img src="assets/illini.PNG" alt="" height="15">&nbsp;&nbsp;&nbsp;Educator <img src="assets/wsu.png" alt="" height="15">&nbsp;&nbsp;&nbsp;Nascent Web Developer 🚀</b><p>
+ <p><b>Hello, I'm Angela&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Nascent Full Stack Developer🚀&nbsp;&nbsp;&nbsp;Educator <img src="assets/wsu.png" alt="" height="15">&nbsp;&nbsp;&nbsp;Veterinarian <img src="assets/illini.PNG" alt="" height="15"></b><p>
   <p>Currently learning mobile-first responsive design, JavaScript, HTML/CSS, SCSS, PHP, React, Bootstrap</p>
 </div>
 
