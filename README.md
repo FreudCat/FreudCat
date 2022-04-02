@@ -17,14 +17,7 @@
   <a href="https://github.com/FreudCat/wordpress-theme-child">
     <img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=freudcat&repo=wordpress-theme-child&theme=radical"></a>
   <a href="https://github.com/FreudCat/Shopping-Page">
-    <img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=freudcat&repo=shopping-page&theme=radical"></a>
-  <img src="assets/lab-profile.jpg" alt="" height="250" width="350">
-  <img src="assets/lab-profile.jpg" alt="" height="250" width="350">
-  <a href="https://github.com/FreudCat/dogs-are-great">
-    <img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=freudcat&repo=dogs-are-great&theme=radical"></a>
-     <a href="https://github.com/FreudCat/dogs-are-great">
-    <img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=freudcat&repo=dogs-are-great&theme=radical"></a>
- 
+    <img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=freudcat&repo=shopping-page&theme=radical"></a> 
 </section>
 
 <br />
