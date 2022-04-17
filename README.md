@@ -30,8 +30,8 @@
   <img src="assets/windy.png" alt="" height="350" width="350">
   <a href="https://github.com/FreudCat/ceramic-arts">
     <img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=freudcat&repo=ceramic-arts&theme=radical"></a>
-  <a href="https://github.com/FreudCat/vacation-planning-app">
-    <img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=freudcat&repo=vacation-planning-app&theme=radical"></a> 
+  <a href="https://github.com/FreudCat/vacation-weather">
+    <img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=freudcat&repo=vacation-weather&theme=radical"></a> 
 </section>
 
 <br />
