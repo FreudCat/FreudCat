@@ -12,8 +12,10 @@
 <section align="center">
   <h2>Some completed projects</h2>
   <br />
-  <img src="assets/petspage.PNG" alt="" height="250" width="350">
-  <img src="assets/lab-profile.jpg" alt="" height="250" width="350">
+  <a href="https://github.com/FreudCat/wordpress-theme-child">
+    <img src="assets/petspage.PNG" alt="" height="250" width="350"></a>
+  <a href="https://github.com/FreudCat/dogs-are-great">
+    <img src="assets/lab-profile.jpg" alt="" height="250" width="350"></a>
   <a href="https://github.com/FreudCat/wordpress-theme-child">
     <img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=freudcat&repo=wordpress-theme-child&theme=radical"></a>
   <a href="https://github.com/FreudCat/dogs-are-great">
@@ -26,8 +28,10 @@
 <section align="center">
   <h2>In progress projects</h2>
   <br />
-  <img src="assets/transparent-octo.png" alt="" height="350" width="350">
-  <img src="assets/windy.png" alt="" height="350" width="350">
+  <a href="https://github.com/FreudCat/ceramic-arts">
+    <img src="assets/transparent-octo.png" alt="" height="350" width="350"></a>
+  <a href="https://github.com/FreudCat/vacation-weather">
+    <img src="assets/windy.png" alt="" height="350" width="350"></a>
   <a href="https://github.com/FreudCat/ceramic-arts">
     <img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=freudcat&repo=ceramic-arts&theme=radical"></a>
   <a href="https://github.com/FreudCat/vacation-weather">
