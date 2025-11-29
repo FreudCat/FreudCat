@@ -6,13 +6,15 @@
 
 <br />
 
-<section align="center">
-  <h2>Featured Projects</h2>
-  <br />
-  <a href="https://github.com/FreudCat/bloom-two">
-    <img src="assets/cherry-bloom.png" alt="Bloom - Interactive Portfolio" height="250" width="350"></a>
-  <p><b>Bloom:</b> Portfolio featuring a browser game built with React.</p>
-  <a href="https://angelabloom.com">Link</a>
+<section>
+  <div align="center">
+    <h2>Featured Projects</h2>
+    <br />
+    <a href="https://github.com/FreudCat/bloom-two">
+      <img src="assets/cherry-bloom.png" alt="Bloom - Interactive Portfolio" height="250" width="350"></a>
+    <p><b>Bloom:</b> Portfolio featuring a browser game built with React.</p>
+    <a href="https://angelabloom.com">Link</a>
+  </div>
 </section>
 
 <br />
