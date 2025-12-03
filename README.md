@@ -10,12 +10,14 @@
   <div align="center">
     <h2>Featured Projects</h2>
     <br />
-    <a href="https://github.com/FreudCat/bloom-two">
-      <img src="assets/cherry-bloom.png" alt="Bloom - Interactive Portfolio" height="250" width="350" style="border-radius: 2px 2px 0 0; display: block;">
-    </a>
-    <a href="https://github.com/FreudCat/bloom-two">
-      <img src="https://github-readme-stats-new-inky.vercel.app/api/pin/?username=freudcat&repo=bloom-two&theme=radical&border_radius=0" alt="Bloom Repo Stats" style="border-radius: 0 0 2px 2px; display: block;">
-    </a>
+    <div style="display: inline-block;">
+      <a href="https://angelabloom.com">
+        <img src="assets/cherry-bloom.png" alt="Bloom - Interactive Portfolio" width="250" style="border-radius: 2px 2px 0 0; display: block;">
+      </a>
+      <a href="https://github.com/FreudCat/bloom-two">
+        <img src="https://github-readme-stats-new-inky.vercel.app/api/pin/?username=freudcat&repo=bloom-two&theme=radical&border_radius=0" alt="Bloom Repo Stats" width="250" style="border-radius: 0 0 2px 2px; display: block; margin-top: -1px;">
+      </a>
+    </div>
     <br />
   </div>
 </section>
