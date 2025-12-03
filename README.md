@@ -11,9 +11,12 @@
     <h2>Featured Projects</h2>
     <br />
     <a href="https://github.com/FreudCat/bloom-two">
-      <img src="assets/cherry-bloom.png" alt="Bloom - Interactive Portfolio" height="250" width="350"></a>
-    <p><b>Bloom:</b> Portfolio featuring a browser game built with React.</p>
-    <a href="https://angelabloom.com">Link</a>
+      <img src="assets/cherry-bloom.png" alt="Bloom - Interactive Portfolio" height="250" width="350" style="border-radius: 2px 2px 0 0; display: block;">
+    </a>
+    <a href="https://github.com/FreudCat/bloom-two">
+      <img src="https://github-readme-stats-new-inky.vercel.app/api/pin/?username=freudcat&repo=bloom-two&theme=radical&border_radius=0" alt="Bloom Repo Stats" style="border-radius: 0 0 2px 2px; display: block;">
+    </a>
+    <br />
   </div>
 </section>
 
@@ -40,7 +43,7 @@
     <img src="assets/GitHub_logo.png" alt="GitHub" width="50" height="50"/>
     <img src="assets/Bitbucket_logo.svg" alt="BitBucket" width="50" height="50"/><br/>
     <br />
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=freudcat&hide_border=true&langs_count=8&layout=compact&&bg_color=45,2e21ac,df4a9b&title_color=fff&text_color=e5e5e5" height="200" />
+     <img src="https://github-readme-stats-new-inky.vercel.app/api/top-langs/?username=freudcat&hide_border=true&langs_count=8&layout=compact&&bg_color=45,2e21ac,df4a9b&title_color=fff&text_color=e5e5e5" height="200" />
   </div>
   <p align="center"><b>...and I'm always excited to learn more!</b></p>
   <br />
